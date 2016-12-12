@@ -1,0 +1,27 @@
+.indent {
+  text-indent: 50px;
+
+  }
+
+.img_layer {
+  position: relative;
+
+}
+
+.list_one {
+  position: absolute;
+  left: 50px;
+  bottom:73px;
+  font-size: 25px;
+
+}
+
+.list_two {
+  position: absolute;
+  left: 350px;
+  bottom: 45px;
+  font-size: 25px;
+}
+.line_strike{
+  text-decoration: line-through;
+}
